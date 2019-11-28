@@ -1,4 +1,4 @@
-int analogPin = A3;
+int analogPin = A5;
 int val = 0;
 void setup() {
   // Inicializa a comunicação serial com uma taxa de 9600 bauds.
